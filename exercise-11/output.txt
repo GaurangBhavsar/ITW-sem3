@@ -1,0 +1,3 @@
+Exercise 11: Temporary file lifecycle
+
+Expected result: history shows the file being added and later removed.

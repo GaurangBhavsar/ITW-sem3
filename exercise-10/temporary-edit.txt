@@ -1,0 +1,4 @@
+Temporary practice edit
+
+This file demonstrates a local edit that can be inspected with `git diff`.
+Decide whether to commit or discard the change after reviewing it.

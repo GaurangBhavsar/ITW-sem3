@@ -1,0 +1,3 @@
+Exercise 09: Content merge conflict
+
+The merge can stop with a conflict if both branches modify the same lines. See `conflict-example.txt` for the conflict and a resolved version.

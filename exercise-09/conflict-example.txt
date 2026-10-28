@@ -1,0 +1,13 @@
+Example conflict before resolution:
+
+<<<<<<< HEAD
+Lab mode: classroom
+=======
+Lab mode: online
+>>>>>>> feature/mode
+
+Example resolved version (choose one intended result):
+
+Lab mode: classroom
+
+Resolution note: in a real merge, decide which value or combined content is correct, remove the conflict markers, stage the file, and commit it.

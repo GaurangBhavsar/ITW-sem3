@@ -1,0 +1,1 @@
+Temporary file used to practise adding and removing a tracked file.

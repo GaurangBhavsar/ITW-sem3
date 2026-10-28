@@ -1,0 +1,3 @@
+Exercise 12: Status checkpoint
+
+Expected result: working-tree status and recent commits are displayed.

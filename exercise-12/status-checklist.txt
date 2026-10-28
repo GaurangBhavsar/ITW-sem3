@@ -1,0 +1,4 @@
+Repository status checkpoint
+- Check for modified files with `git status`.
+- Review recent commits with `git log --oneline`.
+- Stage only files intended for the next commit.
