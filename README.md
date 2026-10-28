@@ -2,8 +2,7 @@
 
 **Name:** Gaurang Bhavsar  
 **Roll Number:** BT25CSE216  
-**Section:** [Fill in your section]
-
+**Section:** CSE C
 ## Assignment description
 This assignment practises Git and GitHub workflows, including repository setup, commits, branches, staging and unstaged changes, `.gitignore`, merging, conflict resolution, remotes, cloning, and working with a team repository. Shell scripts are included where the exercise uses a runnable program.
 
@@ -49,16 +48,7 @@ git --version
 
 For a C/C++ program, use the relevant compiler, for example `g++ main.cpp -o main && ./main`. No C/C++ source is required for these Git exercises.
 
-## GitHub issues and pull requests
-Add the real links after creating them in your GitHub repository. Links are left as placeholders rather than inventing activity that has not happened.
 
-- Repository: [ADD YOUR REPOSITORY URL]
-- Issues:
-  - Exercise tracking issue: [ADD ISSUE URL]
-  - Merge-conflict practice issue: [ADD ISSUE URL]
-- Pull requests:
-  - Feature/menu pull request: [ADD PULL REQUEST URL]
-  - Help instructions pull request: [ADD PULL REQUEST URL]
 
 ## Commit history
 Use descriptive commits, for example:
