@@ -1,0 +1,3 @@
+Exercise 02: Initial README commit
+
+Expected result: the README is tracked in the initial commit.
