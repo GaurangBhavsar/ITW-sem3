@@ -1,0 +1,3 @@
+Exercise 08: Help instructions and merge
+
+Expected result: `help.txt` is present on `main` after a successful merge.

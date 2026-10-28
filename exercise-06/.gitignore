@@ -1,0 +1,12 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp.tmp
+
+# Build output
+build/
+
+# Local environment settings (may contain secrets)
+.env

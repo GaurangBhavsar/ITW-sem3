@@ -1,0 +1,3 @@
+Exercise 05: Staged and unstaged changes
+
+Expected result: `git diff` shows unstaged changes; after `git add`, `git diff --staged` shows the staged patch.

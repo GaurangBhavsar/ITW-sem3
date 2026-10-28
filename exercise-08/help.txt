@@ -1,0 +1,8 @@
+MENU SCRIPT HELP
+
+1. Greet the user.
+2. Add two integers.
+3. Check whether an integer is even or odd.
+4. Exit the program.
+
+Run the menu with: bash menu.sh

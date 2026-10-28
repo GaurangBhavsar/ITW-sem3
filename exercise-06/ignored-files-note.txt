@@ -1,0 +1,8 @@
+The following example paths are intended to be ignored:
+debug.log
+temp.tmp
+build/output.txt
+.env
+
+Use `git check-ignore -v <path>` to identify the matching rule.
+Do not put real secrets in this demonstration file.
