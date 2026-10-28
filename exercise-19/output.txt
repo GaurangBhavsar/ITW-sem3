@@ -1,0 +1,3 @@
+Exercise 19: Final review
+
+Expected result: the working tree is clean and README issue/PR links have been filled with real URLs.

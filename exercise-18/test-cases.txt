@@ -1,0 +1,11 @@
+Manual test cases
+
+Greeting script:
+- Input: Gaurang -> expected: Hello, Gaurang!
+- Empty input -> expected: Name cannot be empty.
+
+Menu:
+- Option 2 with 5 and 7 -> expected: Sum: 12
+- Option 3 with 22 -> expected: Even
+- Option 3 with 9 -> expected: Odd
+- Option 4 -> exits the menu.

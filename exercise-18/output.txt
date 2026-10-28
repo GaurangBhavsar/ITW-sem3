@@ -1,0 +1,3 @@
+Exercise 18: Run and review scripts
+
+Expected result: scripts run and the repository state/history are visible.
