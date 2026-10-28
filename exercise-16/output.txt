@@ -1,0 +1,3 @@
+Exercise 16: VS Code Git workflow
+
+Expected result: VS Code shows the changed files and the new commit in repository history.

@@ -1,0 +1,6 @@
+Remote update example
+
+Before editing, run `git fetch origin` and `git pull origin main`.
+After committing your change, run `git push origin main`.
+
+If push is rejected because the remote has new commits, fetch/pull and integrate the remote changes before pushing again.

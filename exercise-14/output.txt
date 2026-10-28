@@ -1,0 +1,3 @@
+Exercise 14: Clone and inspect history
+
+Expected result: a local copy is created and its commits can be inspected. Replace the URL and folder name.

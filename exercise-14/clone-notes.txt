@@ -1,0 +1,5 @@
+Clone notes
+1. Use the real GitHub repository URL.
+2. Run `git clone <repository-url>`.
+3. Enter the cloned folder.
+4. Run `git log --oneline` and `git status`.

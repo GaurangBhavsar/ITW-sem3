@@ -1,0 +1,7 @@
+Git workflow in Visual Studio Code
+
+1. Open the Source Control view to review changed files.
+2. Stage a file with the plus button next to it.
+3. Enter a commit message and select Commit.
+4. Create or switch branches from the branch indicator in the status bar.
+5. To combine a feature branch, switch to the target branch and merge the feature branch.

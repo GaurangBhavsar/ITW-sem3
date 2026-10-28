@@ -1,0 +1,3 @@
+Exercise 17: VS Code conflict
+
+Expected result: conflict markers are removed and the resolution is committed.
